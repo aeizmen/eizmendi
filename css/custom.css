@@ -1,0 +1,19 @@
+p {
+    font-size: large;
+}
+
+.showAbstract[aria-expanded="false"]::after {
+    font-family: FontAwesome;
+    content: " \f078";
+}
+
+.showAbstract[aria-expanded="true"]::after {
+    font-family: FontAwesome;
+    content: " \f077";
+}
+
+.section {
+    margin-bottom: 0.8cm;
+    margin-top: 0.25cm;
+}
+
