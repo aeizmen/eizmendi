@@ -17,3 +17,11 @@ p {
     margin-top: 0.25cm;
 }
 
+
+.wip_no_dist {
+	margin-bottom:0px;
+}
+
+.wip_dist {
+	margin-bottom:10px;
+}
