@@ -7,10 +7,14 @@
     font-family: FontAwesome;
     content: " \f077";
 }
+.section_top {
+    margin-bottom: 0.2cm;
+    margin-top: 0cm;
+}
 
 .section {
-    margin-bottom: 0.8cm;
-    margin-top: 0.25cm;
+    margin-bottom: 0.4cm;
+    margin-top: 0.15cm;
 }
 
 
