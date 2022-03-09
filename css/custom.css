@@ -1,7 +1,3 @@
-p {
-    font-size: large;
-}
-
 .showAbstract[aria-expanded="false"]::after {
     font-family: FontAwesome;
     content: " \f078";
