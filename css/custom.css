@@ -1,3 +1,10 @@
+b {
+    font-weight: 600;
+}
+a {
+  color: #3277e6;
+}
+
 .showAbstract[aria-expanded="false"]::after {
     font-family: FontAwesome;
     content: " \f078";
@@ -13,10 +20,11 @@
 }
 
 .section {
-    margin-bottom: 0.4cm;
-    margin-top: 0.15cm;
+    margin-bottom: 0.25cm;
+    margin-top: 0cm;
+/*    text-decoration: underline;   
+    text-decoration-thickness: 0.2px;*/
 }
-
 
 .wip_no_dist {
 	margin-bottom:5px;
@@ -24,4 +32,12 @@
 
 .wip_dist {
 	margin-bottom:25px;
+}
+
+.p_title_p{
+    margin-bottom:6px;
+}
+
+.p_abstract_p{
+    margin-bottom:6px;
 }
