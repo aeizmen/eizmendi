@@ -36,8 +36,8 @@ a {
 }
 
 .section {
-    margin-bottom: 0.25cm;
-    margin-top: 0cm;
+    margin-bottom: 0.35cm;
+    margin-top: 0.15cm;
 /*    text-decoration: underline;   
     text-decoration-thickness: 0.2px;*/
 }
@@ -51,9 +51,10 @@ a {
 }
 
 .p_title_p{
-    margin-bottom:6px;
+    margin-bottom:7px;
 }
 
 .p_abstract_p{
-    margin-bottom:6px;
+    margin-bottom:7px;
 }
+
